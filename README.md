@@ -1,4 +1,4 @@
-# ⚡ Port Status Checker
+# ⚡ Port  Checker
 
 A beautiful, modern web application to check whether TCP ports on any host are **open** or **closed**. Built with **Flask** and **vanilla JavaScript**, featuring a premium dark-themed UI with real-time scanning, concurrent port checks, and animated results.
 
